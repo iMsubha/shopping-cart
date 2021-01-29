@@ -1,2 +1,2 @@
 # shopping-cart
-https://imsubha.github.io/shopping-cart/
+live-site: https://imsubha.github.io/shopping-cart/
